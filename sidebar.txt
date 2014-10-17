@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qwa:home|Door43 (qwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qwa|d43-qwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qwa/archive/master.zip|d43-qwa.zip]]
+
+**Recent Changes**
+{{changes>ns = qwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qwa|Ethnologue data]]
+
